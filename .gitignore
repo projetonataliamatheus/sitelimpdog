@@ -1,0 +1,7 @@
+node_modules/
+.sites-runtime/
+.github-cli/
+.DS_Store
+Thumbs.db
+
+# A pasta dist/ permanece versionada porque contém a versão publicada do site.

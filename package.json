@@ -1,0 +1,15 @@
+{
+  "name": "sitelimpdog",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Site institucional da Limp Dog Banho e Tosa, em Limeira.",
+  "scripts": {
+    "dev": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "start": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
